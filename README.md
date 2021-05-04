@@ -18,8 +18,8 @@
 	<br>
 	<p align="center">
 		<br>
-		<img src="https://github-readme-stats.vercel.app/api?username=joao-py&show_icons=true&theme=radical" height="165px">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-py&show_icons=true&theme=radical" height="165px">
+		<img src="https://github-readme-stats.vercel.app/api?username=jaoow&show_icons=true&theme=radical" height="165px">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoow&show_icons=true&theme=radical" height="165px">
 	</p>
 	</div>
 </h1>
